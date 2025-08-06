@@ -1,4 +1,4 @@
-# TIMed-Q: Top Internet Medical–Question Dataset
+# TIMed-Q: Top Internet Medical Question Dataset
 
 **TIMed-Q** is a curated dataset of 500 patient-phrased medical questions sourced from real-world internet searches. It is designed to support research in **Large Language Models (LLMs)**, **clinical reasoning**, and **medical safety evaluation** by capturing the authentic language and concerns of patients seeking medical information online.
 
